@@ -7,4 +7,19 @@ This dataset provided by ***Quantum Analysis NG*** contains data about sales rec
 The dataset use for this Analysis contain ***"Coffee Dataset.CSV File"***
 
 ### Tools
-- Microsoft Power BI
+- Microsoft Power BI - Data transformaion and Visualization tools
+  -  [Download here](https://microsoft.com)
+  
+- Power Quarry - Data Cleaning
+
+ ### Data cleaning
+  the dataset was trasfromin power quarry and clean, replace value then use visuallization tools to create my report.
+
+  ### Exploratory Data Analysis
+  - Sales and Quantity per product category
+  - Sales rate across location
+  - Quantity sold per location
+  - Top 15 sales product
+
+    
+  
